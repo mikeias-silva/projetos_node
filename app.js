@@ -64,3 +64,6 @@ app.use('/', router);
 
 app.listen(port)
 console.log('Api funcionando!');
+
+
+
